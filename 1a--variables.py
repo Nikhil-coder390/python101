@@ -1,0 +1,5 @@
+print(type(2))
+print(2%3)
+number = float(1)
+print(number)
+print(type(number))
